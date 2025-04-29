@@ -32,6 +32,14 @@
     "import/no-unresolved": [2, { "caseSensitive": false }],
     "jsx-a11y/click-events-have-key-events": "off",
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "import/no-named-as-default": "off",
+    "import/no-named-as-default-member": "off",
+    "react/prefer-stateless-function": "off",
+    "react/sort-comp": "off",
+    "import/order": "off",
+    "implicit-arrow-linebreak": "off",
+    "comma-dangle": "off",
+    "function-paren-newline": "off",
     "import/order": [
       2,
       {
